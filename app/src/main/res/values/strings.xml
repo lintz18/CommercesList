@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Comercios</string>
+    <string name="commerces">Comercios</string>
+    <string name="near_1km">A menos de 1km</string>
+    <string name="commerces_list">Listado de comercios</string>
+    <string name="categories">Todas</string>
+    <string name="category_1">Categoria 1</string>
+    <string name="localization">Localización</string>
+    <string name="route">Llévame aquí</string>
+    <string name="about_commerce">Sobre el comercio</string>
+    <string name="category_2">Categoría 2</string>
+    <string name="category_3">Categoría 3</string>
+    <string name="category_info">Categoría:</string>
+    <string name="hour_info">Horario</string>
+    <string name="cashback_info">Cashback:</string>
+    <string name="error_connectivity">No tienes conexión a internet</string>
+</resources>
